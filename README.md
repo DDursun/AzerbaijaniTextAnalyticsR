@@ -1,1 +1,2 @@
-# AzerbiajaniTextAnalyticsR
+# Azerbaijani TextAnalytics in R
+
